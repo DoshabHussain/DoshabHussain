@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DoshabHussain&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/doshab-hussain-9bb875264)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](doshab1234@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:doshab1234@gmail.com)
 
 </div>
 
